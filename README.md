@@ -18,7 +18,7 @@ A Java-based application designed for reserving bus tickets. It utilizes JDBC fo
 
 - **Java**: Core programming language.
 - **JDBC**: For database connectivity.
-- **Database**: MySQL (or specify your database here).
+- **Database**: MySQL.
 
 ## Future Enhancements
 
